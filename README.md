@@ -103,10 +103,10 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 <div align="center">
   <p>Desenvolvido com 💜</p>
   <p>
-    <a href="https://github.com/seu-usuario">
+    <a href="https://github.com/joaomjbraga">
       <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub do desenvolvedor"/>
     </a>
-    <a href="https://www.linkedin.com/in/seu-usuario/">
+    <a href="https://www.linkedin.com/in/joaomjbraga/">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn do desenvolvedor"/>
     </a>
   </p>
