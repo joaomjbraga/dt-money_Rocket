@@ -73,7 +73,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/seu-usuario/dt-money.git
+$ git clone https://github.com/joaomjbraga/dt-money_Rocket.git
 
 # Acesse a pasta do projeto
 $ cd dt-money
